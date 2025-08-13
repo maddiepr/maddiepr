@@ -1,12 +1,31 @@
-# 👋 Hi, I’m Maddie Preston
+# Madeline (Maddie) Preston
 
-💻 I'm a recent M.S. graduate in Applied Mathematics at UNC Chapel Hill, where I specialized on fluid dynamics, PDEs, and high-performance simulation.
+Hi, I'm Maddie Preston - a computational scientist and applied mathematican who loves turning mathematical models into real, working code. I specialize in high-performance simulations, numerical solvers, and backend tools for scientific and engineering problems.
 
-🎲 I build mathematical software using Python and Fortran, including Monte Carlo-based PDE solvers in complex domains.
+Right now, I'm focused on:
+- Simulating PDEs with Monte Carlo methods
+- Writing efficient solvers in Python, C++, and Fortran
+- Building reproducible workflows with Docker and SQL
+- Exploring backend APIs and data systems for simulation output
 
-🛠️ I’m passionate about turning complex math into efficient, reliable code. I am excited to apply these skills in research-driven or engineering-focused roles in industry.
+My work spans scientific computing, machine learning, and infrastructure. I'm always looking for ways to bridge theory and practice clean, scalable code.
 
-## 🔧 Tools & Languages
-Python • Fortran • HPC • NumPy • Git • Jupyter • Bash
+---
+
+## Featured Projects
+
+Check out my [Portfolio Repo](https://github.com/maddiepr/maddie-preston-portfolio) for detailed writeups and code. Highlights include:
+- **Monte Carlo PDE Solver (Python + Fortran):** Domain-mapped framework for non-conservative PDEs  
+- **CNN + Transfer Learning (PyTorch):** Custom vision model with ResNet fine-tuning  
+- **C++ Heat Equation Solver:** Finite difference simulation with CLI interface  
+- **Simulation Database & Querying (SQL + Python):** Store and analyze simulation results  
+- **Java Grid Simulation:** Object-oriented simulation of particle movement  
+- **Dockerized Simulation API:** Containerized Python backend with REST interface
+
+---
+
+## Contact
 
 📫 [LinkedIn](https://www.linkedin.com/in/madeline-preston) • [Email](mailto:maddiepr@email.unc.edu)
+
+Thank you for visiting!
