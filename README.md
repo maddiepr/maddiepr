@@ -26,6 +26,6 @@ Check out my [GitHub Portfolio](https://maddiepr.github.io/maddie-preston-portfo
 
 ## Contact
 
-📫 [LinkedIn](https://www.linkedin.com/in/madeline-preston) • [Email](mailto:maddiepr@email.unc.edu)
+📫 [LinkedIn](https://www.linkedin.com/in/madeline-preston) • [Email](mailto:maddiepr@email.unc.edu) • [Resume](./Maddie_Preston_Resume.pdf.pdf)
 
 Thank you for visiting!
