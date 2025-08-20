@@ -15,7 +15,7 @@ My work spans scientific computing, machine learning, and infrastructure. I'm al
 ## Featured Projects
 
 Check out my [GitHub Portfolio](https://maddiepr.github.io/maddie-preston-portfolio/) for detailed writeups and code. Highlights include:
-- **Monte Carlo PDE Solver (Python + Fortran):** Domain-mapped framework for non-conservative PDEs  
+- **Monte Carlo PDE Solver (Python + Fortran + C++):** Domain-mapped framework for non-conservative PDEs  
 - **CNN + Transfer Learning (PyTorch):** Custom vision model with ResNet fine-tuning  
 - **C++ Heat Equation Solver:** Finite difference simulation with CLI interface  
 - **Simulation Database & Querying (SQL + Python):** Store and analyze simulation results  
